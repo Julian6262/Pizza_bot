@@ -1,11 +1,8 @@
-Pizza_bot
+# Pizza_bot
 
 Telegram bot for online pizza ordering.
 
-Libraries used:
--sqlalchemy
--asyncio
--aiogram
+Libraries used: sqlalchemy, asyncio, aiogram
 
 
 ![image](https://github.com/user-attachments/assets/6d13f3ca-6e0e-4725-9565-4e1ae1a4fb8e)
